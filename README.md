@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/5f7a4f3a-cdec-458c-95d0-190e1d0127a9" />
+    <img width="1500" height="500" alt="image" src="../Zephyr6410/9f287788-2865-4de6-8f46-801a1ef95d84.jfif" />
 </div>
 
 ## Favorite Saying 👍
