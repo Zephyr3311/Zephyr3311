@@ -1,7 +1,7 @@
 <h1 align="center" color="#0969daab">👋 Hi there</h1>
 
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20engineer;Blockchain%20%26%20Web3%20Expert;AI%20Enthusiast;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=Green&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20engineer;Blockchain%20%26%20Web3%20Expert;AI%20Enthusiast;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=#00FF00&vCenter=true&size=45%22"></a>
 </p>
 
 
