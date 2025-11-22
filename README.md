@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Fullstack+Engineer;Web3+Developer;Cyber+Security;Robots_(WIP)" alt="Typing SVG" />
 </div>
 
+![GitHub Followers](https://img.shields.io/github/followers/Zephyr3311?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Zephyr3311&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Zephyr3311?affiliations=OWNER&style=for-the-badge)
 
 
 ## Favorite Saying 👍
