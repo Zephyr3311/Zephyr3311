@@ -1,7 +1,7 @@
 <h1 align="center" color="#0969daab">👋 Hi there</h1>
 
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20engineer;Blockchain%20%26%20Web3%20Expert;AI%20Enthusiast;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=#00ff00&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Zephyr3311"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Engineer;Blockchain%20%26%20Web3%20Expert;AI%20Enthusiast;Always%20learning%20latest%20Technology&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
@@ -9,21 +9,21 @@
 ## Favorite Saying 👍
 
 ```rust
-/// Texora's motto
-struct LinusTorvalds;
+/// Zephyr's motto
+struct Zephyr;
 
-impl LinusTorvalds {
-  /// Return Linus Torvalds quote
-  fn said(&self) -> &str {
-    "Most good programmers do programming not because they expect to get paid /
-     or get adulation by the public, but because it is fun to program."
-  }
+impl Zephyr {
+    /// Return Zephyr's quote
+    fn said(&self) -> &str {
+        "Great programmers code not for rewards or recognition, but because creating is their passion.
+         Programmers don’t code for paychecks or praise—they code because it’s fun and fulfilling."
+    }
 }
 
 fn main() {
-  let linus_torvalds = LinusTorvalds;
+    let zephyr = Zephyr;
 
-  println!("Linus Torvalds - {}", linus_torvalds.said());
+    println!("Zephyr — {}", zephyr.said());
 }
 ```
 
