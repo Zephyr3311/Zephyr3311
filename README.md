@@ -1,8 +1,8 @@
 <h1 align="center" color="#0969daab">👋 Hi there</h1>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Fullstack+Engineer;Web3+Developer;Cyber+Security;Robots_(WIP)" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20engineer;Blockchain%20%26%20Web3%20Expert;AI%20Enthusiast;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 
 
