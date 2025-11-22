@@ -4,21 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Fullstack+Engineer;Web3+Developer;Cyber+Security;Robots_(WIP)" alt="Typing SVG" />
 </div>
 
-![Build](https://github.com/USER/REPO/actions/workflows/main.yml/badge.svg)
-
-
-![GitHub Followers](https://img.shields.io/github/followers/Zephyr3311?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Zephyr3311&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/Zephyr3311?affiliations=OWNER&style=for-the-badge)
-</br>
-![Repo Stars](https://img.shields.io/github/stars/Zephyr3311/REPO_NAME?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Zephyr3311/REPO_NAME?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Zephyr3311/REPO_NAME?style=for-the-badge)
-### 🔥 GitHub Stats & Badges
-
-![GitHub Followers](https://img.shields.io/github/followers/Zephyr3311?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/Zephyr3311?affiliations=OWNER&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Zephyr3311&style=for-the-badge)
 
 
 ## Favorite Saying 👍
