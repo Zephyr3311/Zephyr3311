@@ -1,8 +1,8 @@
 <h1 align="center" color="#0969daab">👋 Hi there</h1>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Zephyr3311"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Engineer;Blockchain%20%26%20Web3%20Expert;AI%20Enthusiast;Always%20learning%20latest%20Technology&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p> -->
+</p>
 
 
 
